@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item
+        android:id="@+id/Mgroceries"
+        android:title="Groceries"
+        android:titleCondensed="#D3545A"/>
+    <item
+        android:id="@+id/Mdirect"
+        android:title="Birpo Direct" />
+    <item
+        android:id="@+id/Mclothing"
+        android:title="Birpo Clothing" />
+    <item
+        android:id="@+id/Mtech_Game"
+        android:title="Technology e Gaming" />
+
+    <item
+        android:id="@+id/Minfo"
+        android:title="Information" />
+    <item
+        android:id="@+id/Mlogout"
+        android:title="Logout" />
+</menu>
+
